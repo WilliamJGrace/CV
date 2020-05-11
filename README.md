@@ -1,14 +1,14 @@
 ## Will Grace
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a recent graduate of makers bootcamp seeking a junior software developer role. I have previous experienice working in fast paced role at a growing recruitment start up, I also have worked as a research assistant in genetic labratory. I decided to make the switch to tech for many reasons, but most importantly I love learning new skills and expanding my knowledge.
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Adaptibility
 
-- Experience
+- I have 
 - Achievements
 - Evidence
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Febuary '20 to May '20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
