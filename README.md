@@ -82,6 +82,6 @@ Maths - B
 
 ## Interests
 
-* I Have a huge passion for music, frequently going to live gigs
+* I am passionate about music and frequently go to live gigs
 * Experiencing new cultures through travelling
 * Staying fit - during these current times this has been incredibily important to me
