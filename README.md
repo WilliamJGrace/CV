@@ -11,9 +11,9 @@ I switched to software development because, fundamentally, I enjoy solving probl
 
 |      Projects      |                                                                                                    Description                                                                                                   |       Technologies <br> used       |   Test Suites   |
 |:------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------:|:---------------:|
-| [Road-To-Disocovery](https://github.com/Team-react/Playlist_App) | My final project at Makers, this project allows the user to quickly create the ultimate travel playlist by choosing any genre or artist of their choice                                         | React.js, Node.js, Spotify Web API |       Jest      |
+| [Road-To-Discovery](https://github.com/Team-react/Playlist_App) | My final project at Makers, this project allows the user to quickly create the ultimate travel playlist by choosing any genre or artist of their choice                                         | React.js, Node.js, Spotify Web API |       Jest      |
 | [Acebook](https://github.com/Untitled-Team-Acebook/acebook-Untitled-Team)         | A clone of the popular social media site, users can create accounts, post updates and pictures, add friends and like fellow Acebooker's posts                                                                    |  Ruby, Ruby on Rails, PostgreSQL,  | Rspec, Capybara |
-|[ MakersBnB ](https://github.com/WilliamJGrace/Makersbnb)         | A clone of Airbnb, our first project to help us fully understand MVP and CRUD principles. A user can post, edit and delete listings. A user can also request to book a listing aswell as confirming a request |      Ruby, Sinatra, PostgreSQL     |       RSpec     |
+|[ MakersBnB ](https://github.com/WilliamJGrace/Makersbnb)         | A clone of Airbnb, our first project to help us fully understand MVP and CRUD principles. A user can post, edit and delete listings. A user can also request to book a listing aswell as confirming a request |      Ruby, Sinatra, PostgreSQL     |       RSpec, Capybara     |
 ## Experience
 
 **Coople** (May '19 to Feb '20)    
