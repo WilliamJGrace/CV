@@ -66,9 +66,9 @@ Technologies/Languages/Frameworks: HTML5 , CSS, JavaScript, Ruby, Rails, Sinatra
  
 #### Thomas Hardye Sixth Form - (September '11 to June '13)
  
-Chemistry - A
-Biology - A
-Maths - B
+* Chemistry - A
+* Biology - A
+* Maths - B
  
  
 ## Interests
