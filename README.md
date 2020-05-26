@@ -5,7 +5,7 @@ Since graduating with a BSc in Microbiology from Leeds University, I gained prof
 I switched to software development because, fundamentally, I enjoy solving problems and I want a career that challenges me, and allows me to create and build exciting projects. Having completed Makers in May 2020, building several projects during this time,  I feel confident in calling myself a junior software developer and I am eager to take on new challenges.
  
  
-## Projects
+## Projects I Am Proud Of
  
 |      Project Name    |                                                                                                    Description                                                                                                   |       Technologies <br> Used       |   Test Suites   |
 |:------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------:|:---------------:|
