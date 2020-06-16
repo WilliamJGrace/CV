@@ -10,14 +10,19 @@ I switched to software development because, fundamentally, I enjoy solving probl
 | [Acebook](https://github.com/Untitled-Team-Acebook/acebook-Untitled-Team)         | [Deployed Link](https://acebook-untitled-team.herokuapp.com/) |A clone of the popular social media site, users can create accounts, post updates and pictures, add friends and like fellow Acebooker's posts                                                                    |  Ruby, Ruby on Rails, PostgreSQL,  | Rspec, Capybara |
 |[ Bank-Tech-Test ](https://github.com/WilliamJGrace/bank-tech-test)         | [GitHub Link](https://github.com/WilliamJGrace/bank-tech-test) | A mock take-home tech test that demonstrates my TDD and OOP skills. The task was to create a command-line app that allows a user to create a bank account, deposit and withdraw, and view a statement.|      JavaScript    |       Jasmine    |
 ## Experience
-**Coople** (May '19 to Feb '20)  
+**Coople** (May '19 to Feb '20)  -
 *Customer Support Specialist*
+
 Assisting clients with understanding the in-house recruitment platform
-**Anthony Nolan** (June '18 to Feb '19) 
+
+**Anthony Nolan** (June '18 to Feb '19) -
 *Research Assistant*
+
 Use of third generation gene sequencing technology to genetically characterise patients and donors that had undergone a stem cell transplant
-**KC Institute - Taipei - Taiwan** (March '17 to December '17) 
+
+**KC Institute - Taipei - Taiwan** (March '17 to December '17) - 
 *EFL Teacher*
+
 Taught a range of ages and abilities. Tailored lessons to suit different learning styles and abilities and planned creative lessons to follow a curriculum.
 ## Skills
 #### Flexibility and Adaptability
