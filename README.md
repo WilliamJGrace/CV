@@ -1,14 +1,20 @@
-## Will Grace
+
+<h1 align="center">
+Will Grace
+</h1>
 I am a recent graduate of Makers Academy, seeking a junior software developer role.
 Since graduating with a BSc in Microbiology from Leeds University, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
 I switched to software development because, fundamentally, I enjoy solving problems and I want a career that challenges me, and allows me to create and contribute to exciting projects. 
+
 ## Projects I Am Proud Of
+
 |      Project Name    |                   Link |                                                                                 Description                                                                                                   |       Technologies <br> Used       |   Test Suites   |
 |:------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------:|:---------------:|
 | [Road-To-Discovery](https://github.com/Team-react/Playlist_App) | [Deployed Link](https://road-to-discovery.herokuapp.com/) | My final project at Makers, this project allows the user to quickly create the ultimate travel playlist by choosing any genre or artist of their choice                                         | React.js, Node.js, Spotify Web API, Travis CI, Heroku |       Jest      |
 [IsItBusyOrNot](https://github.com/Peter2-71828/IsItBusyOrNot) | [Link to Demo](https://drive.google.com/file/d/1VVLjeefBzXYA03ihA3r-ujpe_W6j4nFq/view) | This App was created during a 3-day Hackathon with the aim to create something that would contribute towards the ongoing battle against Covid-19. Our app allows the user to search for a location and receive a real-time indication of how busy that area is | React.js, Express, Node.js, Twitter API ||
 | [Acebook](https://github.com/Untitled-Team-Acebook/acebook-Untitled-Team)         | [Deployed Link](https://acebook-untitled-team.herokuapp.com/) |A clone of the popular social media site, users can create accounts, post updates and pictures, add friends and like fellow Acebooker's posts                                                                    |  Ruby, Ruby on Rails, PostgreSQL,  | Rspec, Capybara |
 |[ Bank-Tech-Test ](https://github.com/WilliamJGrace/bank-tech-test)         | [GitHub Link](https://github.com/WilliamJGrace/bank-tech-test) | A mock take-home tech test that demonstrates my TDD and OOP skills. The task was to create a command-line app that allows a user to create a bank account, deposit and withdraw, and view a statement.|      JavaScript    |       Jasmine    |
+
 ## Experience
 **Coople** (May '19 to Feb '20)  -
 *Customer Support Specialist*
