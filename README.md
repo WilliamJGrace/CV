@@ -45,10 +45,10 @@ I have experience in several sectors, all of which have required me to adapt qui
 * After university, I moved to Taiwan for a year to teach and travel. Working and living in a different county, with a vastly different culture, required me to swiftly adapt to a new way of life and working culture. It was important I remained flexible when dealing with problems and took it upon myself to improve work situations and cultural dilemmas.
 * When I started at Anthony Nolan, I had no experience with the technologies I was using as the facilities were not available at my University. It was important that I learnt the protocol to meticulous detail but I also knew it was essential I understood the theory behind the technology because, as in programming, it was important to give myself a solid foundation to build upon as I progressed with the project.
 #### Organisation
-* At Anthony Nolan, I was assigned various projects which usually ran across multiple months. It was important I was well organised as I was dealing with a large cohort size of DNA samples, I had to keep track of what samples I had tested, how much I had taken, what concentration they were at. As the techniques we were using were experimental, it was important I managed my time effectively, to allow for the inevitable issues that arise when using new technologies with old DNA samples.
-* I developed my project management skills during my time at makers Makers. I completed three group projects using AGILE methodologies throughout.
+* At Anthony Nolan, I was assigned various projects which usually ran across multiple months. It was important I was well organised as I was dealing with a large cohort size of DNA samples. I had to keep track of what samples I had tested, how much I had taken and the concentration they were at. As the techniques we were using were experimental, it was important I managed my time effectively, to allow for the inevitable issues that arise when using new technologies with old DNA samples.
+* I developed my project management skills during my time at Makers. I completed three group projects using AGILE methodologies throughout.
 We would work in two day sprints, have a stand-up every morning, and frequent retrospectives.  Using these methods helped us deliver a working project in our limited time
-* Moving to remote working for the last two months presented its challenges and had the potential to impact my learning if I hadn’t taken the necessary steps to ensure I was still working effectively. I researched the best collaborative tools to use to plan our projects. I also made sure to monitor my own learning with regular reflections and goal setting.
+* Moving to remote working for the last few months has presented its challenges and had the potential to impact my learning if I hadn’t taken the necessary steps to ensure I was still working effectively. I researched the best collaborative tools to use to plan projects. I also made sure to monitor my own learning with regular reflections and goal setting.
 #### Communication
 * At Coople communication was key in my role day-to-day. It was common for clients to have issues with the platform, I had to quickly recognise the problem and explain to them clearly the necessary steps to fix their issue.
 * During my time at Makers, we were tasked with programming in pairs almost every day. This meant I was paired with people who think and programme differently to me. Before implementing any code, it was important we discussed how we would proceed with the task and agree to try one person's method. Communication was key here, as it was crucial to be in sync with one another when tackling a problem.
@@ -66,8 +66,8 @@ Technologies/Languages/Frameworks: HTML5 , CSS, JavaScript, Ruby, Rails, Sinatra
 * Maths - B
 ## Interests
 * Passionate about music and frequently go to live gigs. I enjoy supporting small venues and festivals. Honourable mentions: The Windmill, Moth Club, The Social, 2000 Trees, Cross The Tracks. 
-* Experiencing new cultures through travelling - Although I love exploring the amazing nature within the UK, nothing beats experiencing something completely new and really pushing yourself out of your comfort zone.
-* The outdoors! - Hiking and Camping - I do love London, but I wish it was a little bit more hilly and green!
+* Experiencing new cultures through travelling - Although, I love exploring the amazing nature within the UK, nothing beats experiencing something completely new and pushing yourself out of your comfort zone.
+* Hiking and Camping - I do love London, but I wish it was a little bit more hilly and green!
 * Staying fit - during these current times this has been incredibly important to me. Like many others I’ve found myself with a new obsession with Strava.
  
  
