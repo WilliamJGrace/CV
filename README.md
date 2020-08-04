@@ -13,7 +13,7 @@ Will Grace
 
 I am a recent graduate of Makers Academy, seeking a Full Stack or Front End Software Developer role.
 Since graduating with a BSc in Microbiology from the University of Leeds, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
-I switched to software development because, fundamentally, I enjoy solving problems and I want a career that challenges me, and allows me to create and contribute to exciting projects. 
+I switched to software development because, fundamentally, I enjoy solving problems, learning new things and I want a career that challenges me, and allows me to create and contribute to exciting projects. 
 
 ## Projects I Am Proud Of
 
@@ -41,7 +41,7 @@ Use of third generation gene sequencing technology to genetically characterise p
 Taught a range of ages and abilities. Tailored lessons to suit different learning styles and abilities and planned creative lessons to follow a curriculum.
 ## Skills
 #### Flexibility and Adaptability
-I have experience in several sectors, all of these have required me to adapt quickly to the roles required in the job.
+I have experience in several sectors, all of which have required me to adapt quickly to the meet the responsibilities required in the job.
 * After university, I moved to Taiwan for a year to teach and travel. Working and living in a different county, with a vastly different culture, required me to swiftly adapt to a new way of life and working culture. It was important I remained flexible when dealing with problems and took it upon myself to improve work situations and cultural dilemmas.
 * When I started at Anthony Nolan, I had no experience with the technologies I was using as the facilities were not available at my University. It was important that I learnt the protocol to meticulous detail but I also knew it was essential I understood the theory behind the technology because, as in programming, it was important to give myself a solid foundation to build upon as I progressed with the project.
 #### Organisation
