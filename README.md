@@ -12,7 +12,7 @@ Will Grace
 
 <div align="center">
 
-[Projects](#projects%20I%20Am%20Proud%20of) | [Skills ](#skills) | [Experience ](#experience) | [Education ](#education) | [Interests ](#interests)
+[Projects](#Projects%20I%20Am%20Proud%20Of) | [Skills ](#skills) | [Experience ](#experience) | [Education ](#education) | [Interests ](#interests)
 
 </div>
 
