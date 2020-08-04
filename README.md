@@ -12,7 +12,7 @@ Will Grace
 
 
 I am a recent graduate of Makers Academy, seeking a Full Stack or Front End Software Developer role.
-Since graduating with a BSc in Microbiology from Leeds University, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
+Since graduating with a BSc in Microbiology from the University of Leeds, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
 I switched to software development because, fundamentally, I enjoy solving problems and I want a career that challenges me, and allows me to create and contribute to exciting projects. 
 
 ## Projects I Am Proud Of
