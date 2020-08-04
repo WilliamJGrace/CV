@@ -3,6 +3,14 @@
 Will Grace
 </h1>
 
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/Mob-%2B447463612481-green?style=flat-square" alt=""> <a href="mailto:williamjgrace@outlook.com"><img src="https://img.shields.io/badge/✉️-williamjgrace@outlook.com-red?style=flat-square" alt=""></a> <a href="https://www.linkedin.com/in/william-grace-b4b171b3/"><img src="https://img.shields.io/badge/-William_Grace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-grace-b4b171b3/)" alt=""></a>
+
+</div>
+
+
 I am a recent graduate of Makers Academy, seeking a Full Stack or Front End Software Developer role.
 Since graduating with a BSc in Microbiology from Leeds University, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
 I switched to software development because, fundamentally, I enjoy solving problems and I want a career that challenges me, and allows me to create and contribute to exciting projects. 
