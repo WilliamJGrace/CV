@@ -6,7 +6,7 @@ Will Grace
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/Mob-%2B447463612481-green?style=flat-square" alt=""> <a href="mailto:williamjgrace@outlook.com"><img src="https://img.shields.io/badge/✉️-williamjgrace@outlook.com-red?style=flat-square" alt=""></a> <a href="https://www.linkedin.com/in/william-grace-b4b171b3/"><img src="https://img.shields.io/badge/-William_Grace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-grace-b4b171b3/)" alt=""></a>
+<img src="https://img.shields.io/badge/Mob-%2B447463612481-green?style=flat-square" alt=""> <a href="mailto:williamjgrace@outlook.com"><img src="https://img.shields.io/badge/Email-williamjgrace@outlook.com-red?style=flat-square" alt=""></a> <a href="https://www.linkedin.com/in/william-grace-b4b171b3/"><img src="https://img.shields.io/badge/-William_Grace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-grace-b4b171b3/)" alt=""></a>
 
 </div>
 
