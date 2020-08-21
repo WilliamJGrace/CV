@@ -47,7 +47,7 @@ Use of third generation gene sequencing technology to genetically characterise p
 Taught a range of ages and abilities. Tailored lessons to suit different learning styles and abilities and planned creative lessons to follow a curriculum.
 ## Skills
 #### Flexibility and Adaptability
-I have experience in several sectors, all of which have required me to adapt quickly to the meet the responsibilities required in the job.
+I have experience in several sectors, all of which have required me to adapt quickly to meet the responsibilities required in the job.
 * After university, I moved to Taiwan for a year to teach and travel. Working and living in a different county, with a vastly different culture, required me to swiftly adapt to a new way of life and working culture. It was important I remained flexible when dealing with problems and took it upon myself to improve work situations and cultural dilemmas.
 * When I started at Anthony Nolan, I had no experience with the technologies I was using as the facilities were not available at my University. It was important that I learnt the protocol to meticulous detail but I also knew it was essential I understood the theory behind the technology because, as in programming, it was important to give myself a solid foundation to build upon as I progressed with the project.
 #### Organisation
@@ -74,7 +74,7 @@ Technologies/Languages/Frameworks: HTML5 , CSS, JavaScript, Ruby, Rails, Sinatra
 * Passionate about music and frequently go to live gigs. I enjoy supporting small venues and festivals. Honourable mentions: The Windmill, Moth Club, The Social, 2000 Trees, Cross The Tracks. 
 * Experiencing new cultures through travelling - Although, I love exploring the amazing nature within the UK, nothing beats experiencing something completely new and pushing yourself out of your comfort zone.
 * Hiking and Camping - I do love London, but I wish it was a little bit more hilly and green!
-* Staying fit - during these current times this has been incredibly important to me. Like many others I’ve found myself with a new obsession with Strava.
+* Staying fit - during these current times this has been incredibly important to me. Like many others, I’ve found myself with a new obsession with Strava.
  
  
 
