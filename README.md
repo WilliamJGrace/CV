@@ -36,7 +36,7 @@ I switched to software development because, fundamentally, I enjoy solving probl
 
 - Tasked with building a product to help automate a time-consuming process using AWS Microservices
 
-- Working with the client to ensure we deliver usable and manageable product
+- Working with the client to ensure we deliver a usable and manageable product
 
 **Coople** (May '19 to Feb '20)  -
 *Customer Support Specialist*
