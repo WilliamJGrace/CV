@@ -19,7 +19,7 @@ Will Grace
 
 I am a recent graduate of Makers Academy, seeking a Full Stack or Front End Software Developer role.
 Since graduating with a BSc in Microbiology from the University of Leeds, I gained professional experience with Anthony Nolan as a research assistant in a genetic lab in London. However, I didn’t see myself spending the rest of my life in a lab coat. I wanted more out of a career, so I began learning to code. I started a client-facing role in a fast-growing start-up in London to gain a better insight into the tech industry, whilst introducing myself to the basics of languages such as HTML, CSS and Javascript in my free time.
-I switched to software development because, fundamentally, I enjoy solving problems, learning new things and I want a career that challenges me, and allows me to create and contribute to exciting projects.
+I switched to software development because, fundamentally, I enjoy solving problems, learning new things and I want a career that challenges me, and allows me to create and contribute to exciting projects. Currently, I am building my client-facing, project management, and development skills volunteering at Mind.
 
 ## Projects I Am Proud Of
 
@@ -31,6 +31,13 @@ I switched to software development because, fundamentally, I enjoy solving probl
 |[ Bank-Tech-Test ](https://github.com/WilliamJGrace/bank-tech-test)         | [GitHub Link](https://github.com/WilliamJGrace/bank-tech-test) | A mock take-home tech test that demonstrates my TDD and OOP skills. The task was to create a command-line app that allows a user to create a bank account, deposit and withdraw, and view a statement.|      JavaScript    |       Jasmine    |
 
 ## Experience
+**Mind** (July '20 to Present)  -
+*Volunteer Developer*
+
+- Tasked with building a product to help automate a time-consuming process using AWS Microservices
+
+- Working with the client to ensure we deliver usable and manageable product
+
 **Coople** (May '19 to Feb '20)  -
 *Customer Support Specialist*
 
