@@ -35,7 +35,7 @@ I switched to software development because, fundamentally, I enjoy solving probl
 **Mind** (July '20 to Present)  -
 *Volunteer Developer*
 
-- Tasked with building a product to help automate a time-consuming process using AWS Microservices
+- Tasked with building a product to help automate a time-consuming process using AWS
 
 - Working with the client to ensure we deliver a usable and manageable product
 
