@@ -80,7 +80,7 @@ Technologies/Languages/Frameworks: HTML5 , CSS, JavaScript, Ruby, Rails, Sinatra
 * Maths - B
 ## Interests
 * Passionate about music and frequently go to live gigs. I enjoy supporting small venues and festivals. Honourable mentions: The Windmill, Moth Club, The Social, 2000 Trees, Cross The Tracks. 
-* Experiencing new cultures through travelling - Although, I love exploring the amazing nature within the UK, nothing beats experiencing something completely new and pushing yourself out of your comfort zone.
+* Experiencing new cultures through travelling - Although I love exploring the amazing nature within the UK, nothing beats experiencing something completely new and pushing yourself out of your comfort zone.
 * Hiking and Camping - I do love London, but I wish it was a little bit more hilly and green!
 * Staying fit - during these current times this has been incredibly important to me. Like many others, I’ve found myself with a new obsession with Strava.
  
